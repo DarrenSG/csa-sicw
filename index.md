@@ -23,7 +23,7 @@ sections:
               description: Page A is important too
               url: /privacy/
     - infobar:
-        title: Infobar title
+        title: Test Edit by Darren :)
         subtitle: Subtitle
         description: About a sentence worth of description here
         button: Button text
